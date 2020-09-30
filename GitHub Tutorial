@@ -1,0 +1,6 @@
+GitHub is a platform for version control and collaboration.
+Step 1 - Create a Repository. Which is usually used to organize a singal project using files and folders,videos,images data sets and spreadsheets.
+Step 2 - Create a Branch. Branching will help work on different versions of a repositiory at one time.
+Step 3 - Make and Commit changes. On GitHub,saved changes are called commits. 
+Step 4 - Open a Pull Request.  Pull requests show diffs, or differences, of the content from both branches. The changes, additions, and subtractions are shown in green and red.
+Step 5 - Merge your Pull Request. Final step bring your changes together merging your branch into the main branch. 
